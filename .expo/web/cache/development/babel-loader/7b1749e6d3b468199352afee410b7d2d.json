@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as Onboarding } from \"./Onboarding\";","map":{"version":3,"sources":["/home/lapprenti18/sandbox/react-nativ-fashion/src/Authentication/index.ts"],"names":["default","Onboarding"],"mappings":"AAAA,SAAQA,OAAO,IAAIC,UAAnB","sourcesContent":["export {default as Onboarding} from \"./Onboarding\""]},"metadata":{},"sourceType":"module"}
