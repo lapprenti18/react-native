@@ -1,0 +1,1 @@
+{"ast":null,"code":"interface;","map":{"version":3,"sources":["/home/lapprenti18/sandbox/react-native/src/Authentication/Onboarding/Subslide.tsx"],"names":["interface"],"mappings":"AAIAA,SAAS","sourcesContent":["import { Component } from \"react\";\nimport React from 'react';\nimport { View } from 'react-native';\n\ninterface"]},"metadata":{},"sourceType":"module"}
